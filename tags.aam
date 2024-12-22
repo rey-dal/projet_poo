@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationModel>
+  
+  <units>
+    <type name="setting">
+      <featureSet>
+	 
+      </featureSet>
+    </type>
+    <type name="instantiation">
+      <featureSet>
+		
+      </featureSet>
+    </type>
+    <type name="action">
+      <featureSet>
+	
+      </featureSet>
+    </type>
+    <type name="resolution">
+      <featureSet>
+	
+      </featureSet>
+    </type>
+    <type name="directSpeech">
+      <featureSet>
+
+      </featureSet>
+    </type>
+    <type name="openingOrClosing">
+      <featureSet>
+
+      </featureSet>
+    </type>
+    <type name="attentionGetter">
+      <featureSet>
+
+      </featureSet>
+    </type>
+        <type name="mentalState">
+      <featureSet>
+
+      </featureSet>
+    </type>
+  </units>
+
+</annotationModel>

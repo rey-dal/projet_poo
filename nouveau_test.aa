@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotations>
+<metadata corpusHashcode="114555-43065693"/>
+<unit id="TXT_IMPORTER_1732712162287">
+<metadata>
+<author>TXT_IMPORTER</author>
+<creation-date>1732712162287</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="0"/>
+</start>
+<end>
+<singlePosition index="112903"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732715973081">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732715973081</creation-date>
+<lastModifier>pontonc</lastModifier>
+<lastModificationDate>1732716009393</lastModificationDate>
+</metadata>
+<characterisation>
+<type>maman chat</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="4"/>
+</start>
+<end>
+<singlePosition index="16"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732715979763">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732715979763</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>chaton</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="56"/>
+</start>
+<end>
+<singlePosition index="68"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732715985294">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732715985294</creation-date>
+<lastModifier>pontonc</lastModifier>
+<lastModificationDate>1732716113470</lastModificationDate>
+</metadata>
+<characterisation>
+<type>chaton</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="70"/>
+</start>
+<end>
+<singlePosition index="71"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732715993033">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732715993033</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>chaton</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="87"/>
+</start>
+<end>
+<singlePosition index="94"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732715997970">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732715997970</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>chaton</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="119"/>
+</start>
+<end>
+<singlePosition index="126"/>
+</end>
+</positioning>
+</unit>
+<unit id="pontonc_1732716000756">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732716000756</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>maman chat</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="137"/>
+</start>
+<end>
+<singlePosition index="153"/>
+</end>
+</positioning>
+</unit>
+<relation id="pontonc_1732716090375">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732716090375</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>referenceChain</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="pontonc_1732715973081"/>
+<term id="pontonc_1732716000756"/>
+</positioning>
+</relation>
+<relation id="pontonc_1732716099228">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732716099228</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>referenceChain</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="pontonc_1732715993033"/>
+<term id="pontonc_1732715997970"/>
+</positioning>
+</relation>
+<relation id="pontonc_1732716137724">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732716137724</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>default</type>
+<featureSet>
+<feature name="default">default</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<term id="pontonc_1732715979763"/>
+<term id="pontonc_1732715985294"/>
+</positioning>
+</relation>
+<relation id="pontonc_1732716164453">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732716164453</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>referenceChain</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="pontonc_1732715985294"/>
+<term id="pontonc_1732715993033"/>
+</positioning>
+</relation>
+<schema id="pontonc_1732712453601">
+<metadata>
+<author>pontonc</author>
+<creation-date>1732712453601</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>default</type>
+<featureSet>
+<feature name="default">default</feature>
+</featureSet>
+</characterisation>
+<positioning/>
+</schema>
+</annotations>

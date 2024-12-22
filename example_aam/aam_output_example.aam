@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotationModel>
+  <units>
+    <type name="personnage">
+      <featureSet>
+        <feature name="action">
+          <possibleValues default="tombé">
+            <value>tombé</value>
+          </possibleValues>
+        </feature>
+        <feature name="mentalState">
+          <possibleValues default="pleure">
+            <value>pleure</value>
+          </possibleValues>
+        </feature>
+        <feature name="instantiation">
+          <possibleValues default="Le gros chat">
+            <value>Le gros chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="resolution">
+          <possibleValues default="tombé">
+            <value>tombé</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="autres chats">
+            <value>autres chats</value>
+          </possibleValues>
+        </feature>
+      </featureSet>
+    </type>
+    <type name="personnage">
+      <featureSet>
+        <feature name="action">
+          <possibleValues default="s'énerve">
+            <value>s'énerve</value>
+          </possibleValues>
+        </feature>
+        <feature name="mentalState">
+          <possibleValues default="s'énerve">
+            <value>s'énerve</value>
+          </possibleValues>
+        </feature>
+        <feature name="attentionGetter">
+          <possibleValues default="boum">
+            <value>boum</value>
+          </possibleValues>
+        </feature>
+        <feature name="instantiation">
+          <possibleValues default="Un petit chat">
+            <value>Un petit chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="resolution">
+          <possibleValues default="sauvé">
+            <value>sauvé</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="bébé chat">
+            <value>bébé chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="maman chat">
+            <value>maman chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="autres chats">
+            <value>autres chats</value>
+          </possibleValues>
+        </feature>
+      </featureSet>
+    </type>
+    <type name="personnage">
+      <featureSet>
+        <feature name="action">
+          <possibleValues default="tombe">
+            <value>tombe</value>
+          </possibleValues>
+        </feature>
+        <feature name="attentionGetter">
+          <possibleValues default="boum">
+            <value>boum</value>
+          </possibleValues>
+        </feature>
+        <feature name="openingOrClosing">
+          <possibleValues default="il y avait">
+            <value>il y avait</value>
+          </possibleValues>
+        </feature>
+        <feature name="resolution">
+          <possibleValues default="descend">
+            <value>descend</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="bébé chat">
+            <value>bébé chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="maman chat">
+            <value>maman chat</value>
+          </possibleValues>
+        </feature>
+        <feature name="personnage">
+          <possibleValues default="autres chats">
+            <value>autres chats</value>
+          </possibleValues>
+        </feature>
+      </featureSet>
+    </type>
+  </units>
+</annotationModel>
